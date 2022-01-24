@@ -1,22 +1,33 @@
-Entity,Code,Year,Life satisfaction in Cantril Ladder (World Happiness Report 2021)
+﻿Entity,Code,Year,Life satisfaction in Cantril Ladder (World Happiness Report 2021)
+Afghanistan,AFG,2019,2.375
 Albania,ALB,2020,5.365
+Algeria,DZA,2019,4.745
 Argentina,ARG,2020,5.901
+Armenia,ARM,2019,5.488
 Australia,AUS,2020,7.137
 Austria,AUT,2020,7.213
+Azerbaijan,AZE,2019,5.173
 Bahrain,BHR,2020,6.173
 Bangladesh,BGD,2020,5.28
+Belarus,BLR,2019,5.821
 Belgium,BEL,2020,6.839
 Benin,BEN,2020,4.408
 Bolivia,BOL,2020,5.559
 Bosnia and Herzegovina,BIH,2020,5.516
+Botswana,BWA,2019,3.471
 Brazil,BRA,2020,6.11
 Bulgaria,BGR,2020,5.598
+Burkina Faso,BFA,2019,4.741
 Cambodia,KHM,2020,4.377
 Cameroon,CMR,2020,5.241
 Canada,CAN,2020,7.025
+Chad,TCD,2019,4.251
 Chile,CHL,2020,6.151
 China,CHN,2020,5.771
 Colombia,COL,2020,5.709
+Comoros,COM,2019,4.609
+Congo,COG,2019,5.213
+Costa Rica,CRI,2019,6.998
 Cote d'Ivoire,CIV,2020,5.257
 Croatia,HRV,2020,6.508
 Cyprus,CYP,2020,6.26
@@ -27,70 +38,110 @@ Ecuador,ECU,2020,5.354
 Egypt,EGY,2020,4.472
 El Salvador,SLV,2020,5.462
 Estonia,EST,2020,6.453
+Eswatini,SWZ,2019,4.396
 Ethiopia,ETH,2020,4.549
 Finland,FIN,2020,7.889
 France,FRA,2020,6.714
+Gabon,GAB,2019,4.914
+Gambia,GMB,2019,5.164
 Georgia,GEO,2020,5.123
 Germany,DEU,2020,7.312
 Ghana,GHA,2020,5.319
 Greece,GRC,2020,5.788
+Guatemala,GTM,2019,6.262
+Guinea,GIN,2019,4.768
+Honduras,HND,2019,5.93
 Hong Kong,HKG,2020,5.295
 Hungary,HUN,2020,6.038
 Iceland,ISL,2020,7.575
 India,IND,2020,4.225
+Indonesia,IDN,2019,5.347
 Iran,IRN,2020,4.865
 Iraq,IRQ,2020,4.785
 Ireland,IRL,2020,7.035
 Israel,ISR,2020,7.195
 Italy,ITA,2020,6.488
+Jamaica,JAM,2019,6.309
 Japan,JPN,2020,6.118
 Jordan,JOR,2020,4.094
 Kazakhstan,KAZ,2020,6.168
 Kenya,KEN,2020,4.547
 Kosovo,OWID_KOS,2020,6.294
+Kuwait,KWT,2019,6.106
 Kyrgyzstan,KGZ,2020,6.25
 Laos,LAO,2020,5.284
 Latvia,LVA,2020,6.229
+Lebanon,LBN,2019,4.024
+Lesotho,LSO,2019,3.512
+Liberia,LBR,2019,5.121
+Libya,LBY,2019,5.33
 Lithuania,LTU,2020,6.391
+Luxembourg,LUX,2019,7.404
+Madagascar,MDG,2019,4.339
+Malawi,MWI,2019,3.869
+Malaysia,MYS,2019,5.428
+Mali,MLI,2019,4.988
 Malta,MLT,2020,6.157
+Mauritania,MRT,2019,4.153
 Mauritius,MUS,2020,6.015
 Mexico,MEX,2020,5.964
 Moldova,MDA,2020,5.812
 Mongolia,MNG,2020,6.011
 Montenegro,MNE,2020,5.722
 Morocco,MAR,2020,4.803
+Mozambique,MOZ,2019,4.932
 Myanmar,MMR,2020,4.431
 Namibia,NAM,2020,4.451
+Nepal,NPL,2019,5.449
 Netherlands,NLD,2020,7.504
 New Zealand,NZL,2020,7.257
+Nicaragua,NIC,2019,6.113
+Niger,NER,2019,5.004
 Nigeria,NGA,2020,5.503
 North Macedonia,MKD,2020,5.054
+Northern Cyprus,OWID_CYN,2019,5.467
 Norway,NOR,2020,7.29
+Pakistan,PAK,2019,4.443
+Palestine,PSE,2019,4.483
+Panama,PAN,2019,6.086
+Paraguay,PRY,2019,5.653
+Peru,PER,2019,5.999
 Philippines,PHL,2020,5.08
 Poland,POL,2020,6.139
 Portugal,PRT,2020,5.768
+Romania,ROU,2019,6.13
 Russia,RUS,2020,5.495
+Rwanda,RWA,2019,3.268
 Saudi Arabia,SAU,2020,6.56
+Senegal,SEN,2019,5.489
 Serbia,SRB,2020,6.042
+Sierra Leone,SLE,2019,3.447
+Singapore,SGP,2019,6.378
 Slovakia,SVK,2020,6.519
 Slovenia,SVN,2020,6.462
 South Africa,ZAF,2020,4.947
 South Korea,KOR,2020,5.793
 Spain,ESP,2020,6.502
+Sri Lanka,LKA,2019,4.213
 Sweden,SWE,2020,7.314
 Switzerland,CHE,2020,7.508
 Taiwan,TWN,2020,6.751
 Tajikistan,TJK,2020,5.373
 Tanzania,TZA,2020,3.786
 Thailand,THA,2020,5.885
+Togo,TGO,2019,4.179
 Tunisia,TUN,2020,4.731
 Turkey,TUR,2020,4.862
+Turkmenistan,TKM,2019,5.474
 Uganda,UGA,2020,4.641
 Ukraine,UKR,2020,5.27
 United Arab Emirates,ARE,2020,6.458
 United Kingdom,GBR,2020,6.798
 United States,USA,2020,7.028
 Uruguay,URY,2020,6.31
+Uzbekistan,UZB,2019,6.154
 Venezuela,VEN,2020,4.574
+Vietnam,VNM,2019,5.467
+Yemen,YEM,2019,4.197
 Zambia,ZMB,2020,4.838
 Zimbabwe,ZWE,2020,3.16
